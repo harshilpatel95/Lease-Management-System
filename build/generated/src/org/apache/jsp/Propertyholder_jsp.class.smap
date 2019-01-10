@@ -1,0 +1,18 @@
+SMAP
+Propertyholder_jsp.java
+JSP
+*S JSP
+*F
++ 0 Propertyholder.jsp
+Propertyholder.jsp
++ 1 Propertyholderheader.jsp
+Propertyholderheader.jsp
++ 2 footerpropertyholder.jsp
+footerpropertyholder.jsp
+*L
+1,50:50
+5#1,76:100
+50#0,31:175
+5#2,60:206
+80#0,5:265
+*E

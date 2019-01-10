@@ -1,0 +1,25 @@
+SMAP
+aaproveproperty_jsp.java
+JSP
+*S JSP
+*F
++ 0 aaproveproperty.jsp
+aaproveproperty.jsp
++ 1 Adminheader.jsp
+Adminheader.jsp
++ 2 footeradmin.jsp
+footeradmin.jsp
+*L
+5,57:52
+5#1,82:109
+61#0,18:190
+79,7:209
+85,3:216
+88,15:219,3
+103:264
+104:265,2
+105:267,3
+106,5:270
+5#2,62:275
+110#0,4:336
+*E
